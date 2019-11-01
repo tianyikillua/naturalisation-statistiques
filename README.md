@@ -2,7 +2,7 @@
 
 Traitement statistique en Python des décrets de naturalisation disponibles sur [Legifrance](https://www.legifrance.gouv.fr).
 
-### Données de naturalisation en 2019 jusqu'au 03/10
+### Données de naturalisation en 2019 jusqu'au 05/10/2019
 
 Dans les départements d'Île-de-France (en particulier Paris) sont concentrées les plus de naturalisations.
 <p align="center">
@@ -24,7 +24,7 @@ La figure ci-dessous indique la distribution statistique cumulée du délai d'at
   <img src="https://user-images.githubusercontent.com/4027283/66259312-c9a77a00-e7af-11e9-9869-36d02789b2a7.png" width="500">
 </p>
 
-Le délai d'attente suit une évolution un peu étrange au cours du temps. Les dossiers s'accumulent dans le ministère et le délai augmente progressivement après chaque parution de JO (manque de personnel ?).
+Le délai d'attente suit une évolution un peu étrange au cours du temps. Les dossiers s'accumulent dans le ministère et le délai augmente progressivement après chaque parution de JO (manque de personnel ?). Un cycle d'environ 6 mois est observé.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/4027283/66259362-6d912580-e7b0-11e9-8160-e212c5e6d58c.png" width="500">
 </p>
